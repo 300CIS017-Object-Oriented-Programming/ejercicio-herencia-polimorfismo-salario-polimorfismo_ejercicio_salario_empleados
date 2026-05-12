@@ -35,8 +35,6 @@ Allí debe mostrar:
 - El total de la nómina.
 - Una tabla con los datos de prueba usados.
 
-B - Explicación corta del diseño
-
 B - Incluya una sección llamada `Explicación del diseño`.
 1. ¿Cuál es la clase base y por qué?
 2. ¿Qué método se sobrescribe en las clases derivadas?
@@ -45,8 +43,6 @@ B - Incluya una sección llamada `Explicación del diseño`.
 
 La explicación debe estar escrita con palabras propias. No se espera una definición teórica larga, sino una explicación conectada con el código entregado.
 
-
-Incluya una sección llamada `Dificultad encontrada`.
 
 C- Explique una dificultad que apareció durante la actividad. Puede estar relacionada con:
 
@@ -63,7 +59,7 @@ La respuesta debe incluir:
 - Qué parte del código estaba relacionada con el problema.
 - Cómo lo corrigió o qué entendió después de revisarlo.
 
-6. Declaración de uso de IA
+D -Declaración de uso de IA
 
 Incluya una sección llamada `Uso de IA`.
 
@@ -89,4 +85,4 @@ Seleccione una de las siguientes opciones y complétela:
 El uso de IA no reemplaza la responsabilidad del estudiante sobre el código entregado. El estudiante debe poder explicar cualquier parte de su solución.
 
 
-
+> Entregable 2 . Código fuente del programa
